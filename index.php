@@ -10,5 +10,6 @@
     <h1>Versinamento com GIT/GITHUB </h1>
     <h2>Aula 11/09 </h2>
     <p>Executando git commit </p>
+    <a href="pagina1.php">Ir para pagina 1</a>
 </body>
 </html>
